@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511969935 source:/home/neda/Desktop/sendmoremoney/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
