@@ -3,11 +3,12 @@
 #include <string.h>
 #define MAXW 9
 #define MAXL 10
-#define AMXN 10
+
 typedef struct{
     int val;
     char c;
 }letter;
+
 void readword(char *,char *,char *);
 letter *allocation();
 void letterOccur(letter*, char *, char *, char *, int *);
